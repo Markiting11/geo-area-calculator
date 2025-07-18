@@ -1,0 +1,7 @@
+{
+  "name": "Geo Area Calculator",
+  "description": "An application to accurately measure the area of a piece of land by tracking your walk around its perimeter using your device's GPS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
